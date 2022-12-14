@@ -1,0 +1,10 @@
+.idea
+build-svmtrain-Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+build-svmtrain-Desktop_Qt_6_4_1_MinGW_64_bit-Release
+dlib 
+lib
+META-INF
+out
+svmtrain
+swigwin-4.1.0
+*.7z
